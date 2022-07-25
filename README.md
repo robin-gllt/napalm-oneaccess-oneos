@@ -1,4 +1,4 @@
-# Moved to Napalm repo: https://github.com/napalm-automation-community/napalm-oneaccess-oneos
+# Moved to Napalm repository: https://github.com/napalm-automation-community/napalm-oneaccess-oneos
 
 ##
 ## napalm-oneaccess-oneos
