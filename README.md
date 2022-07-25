@@ -1,3 +1,5 @@
+## Moved to official Napalm repo, https://github.com/napalm-automation-community/napalm-oneaccess-oneos
+
 # napalm-oneaccess-oneos
 
 ## NAPALM
