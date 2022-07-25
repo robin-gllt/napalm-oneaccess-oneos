@@ -1,6 +1,7 @@
-## Moved to Napalm repo: https://github.com/napalm-automation-community/napalm-oneaccess-oneos
+# Moved to Napalm repo: https://github.com/napalm-automation-community/napalm-oneaccess-oneos
 
-# napalm-oneaccess-oneos
+##
+## napalm-oneaccess-oneos
 
 ## NAPALM
 
